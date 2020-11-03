@@ -7,5 +7,6 @@ It uses the azerty layout for the tagkeys.
 
 ## Patches
 
-No patches added currently.
-
+- barpadding
+- alpha
+- fullgaps
